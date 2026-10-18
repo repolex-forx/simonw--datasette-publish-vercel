@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-publish-vercel/commit/1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c",
       "git:hexsha": "1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.14.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.14.2",
+      "repolex:parsedAt": "2026-10-18T05:11:41.857690+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-publish-vercel/commit/509640ab2e7805b9c3bf5c1f8131b29d9cf03fd6",
