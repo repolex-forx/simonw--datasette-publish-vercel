@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "datasette-publish-vercel",
+  "versions": [
+    {
+      "commit": "1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c",
+      "parsed_at": "2026-10-18T05:09:58.941336+00:00",
+      "tag": "0.14.2",
+      "filetree": "filetree/1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c.nq.gz",
+      "blobs": [
+        "blob/8292590cc4fc36cffd8b070cb2a72fcdc17fb184.nq.gz",
+        "blob/6fdf934af028a0a31a303f29bf170fee7dcdf1c2.nq.gz",
+        "blob/9db3e060cf9d00939f94862a53b2b44480545a56.nq.gz",
+        "blob/e9e6501a943ce38ff79b0b132e1e975d268e3db7.nq.gz",
+        "blob/c3fb588531ad4d777ddd6a7c5ddd6020b985fd92.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/6677107a90d8f2d28b0bf877c7bdf8d6d120d93a.nq.gz",
+        "blob/b87fae6693af94b526b3c6f45af49e5bcb5fdf74.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6cae2478c13a7bd0d9ba99579eff62a14068b5ba.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
