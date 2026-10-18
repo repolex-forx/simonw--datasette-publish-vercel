@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-publish-vercel",
+  "versions": [
+    {
+      "commit": "1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c",
+      "tag": "0.14.2",
+      "parsed_at": "2026-10-18T05:11:41.858267+00:00"
+    }
+  ]
+}
