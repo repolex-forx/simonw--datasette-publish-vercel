@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-publish-vercel/commit/1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c",
       "git:hexsha": "1559d979b4e3b1f2f83c51c3c0c10192ff9a6d0c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.14.2"
     },
     {
